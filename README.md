@@ -1,0 +1,2 @@
+# scc
+Secure Chat Connection
