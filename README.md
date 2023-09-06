@@ -1,2 +1,2 @@
 # scc
-Secure Chat Connection
+Secure Chat Client
